@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PrimeBirthdays.Cli/PrimeBirthdays.Cli.csproj" />
+  <Project Path="PrimeBirthdays.Core/PrimeBirthdays.Core.csproj" />
+  <Project Path="PrimeBirthdays.Tests/PrimeBirthdays.Tests.csproj" />
+</Solution>
